@@ -7,6 +7,7 @@
 <body>
   <h1>PDF à Télécharger</h1>
   <ul>
+    <li><a https://drive.google.com/file/d/18sGxuc_5cS8VuZoARrsPfljkMWi1VP-p/view?usp=sharing target="_blank">Nom du PDF à télécharger</a></li>
     <li><a href="https://drive.google.com/file/d/1ABCDEFghijkLMNOPqrs/view?usp=sharing" target="_blank">PDF 1 - Document important</a></li>
     <li><a href="https://drive.google.com/file/d/1ZYXWVUTsrqponmlkjih/view?usp=sharing" target="_blank">PDF 2 - Planning</a></li>
     <li><a href="https://drive.google.com/file/d/1MNOPQRSTuvwxYz/view?usp=sharing" target="_blank">PDF 3 - Liste de courses</a></li>
