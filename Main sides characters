@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mes PDF à Télécharger</title>
+</head>
+<body>
+  <h1>PDF à Télécharger</h1>
+  <ul>
+    <li><a href="https://drive.google.com/file/d/1ABCDEFghijkLMNOPqrs/view?usp=sharing" target="_blank">PDF 1 - Document important</a></li>
+    <li><a href="https://drive.google.com/file/d/1ZYXWVUTsrqponmlkjih/view?usp=sharing" target="_blank">PDF 2 - Planning</a></li>
+    <li><a href="https://drive.google.com/file/d/1MNOPQRSTuvwxYz/view?usp=sharing" target="_blank">PDF 3 - Liste de courses</a></li>
+  </ul>
+</body>
+</html>
